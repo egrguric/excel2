@@ -4,7 +4,7 @@ title: Overview
 nav_order: 2
 ---
 
-## Overview
+## Getting to know the options
 
 ### Purpose
 - introduce visualization tools in Excel interface
