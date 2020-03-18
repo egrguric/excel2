@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Overview
+title: Getting to know the options
 nav_order: 2
 ---
 
