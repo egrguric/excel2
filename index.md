@@ -11,6 +11,3 @@ The goal of this lesson is to:
 - introduce students to several chart types in Excel.
 - introduce students to filtering charts.
 - introduce students to exporting charts. 
-
- Download <a href="sample_dataset.csv">sample_dataset.csv</a> and save it somewhere accessible.
-
