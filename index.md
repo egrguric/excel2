@@ -12,5 +12,5 @@ The goal of this lesson is to:
 - introduce students to filtering charts.
 - introduce students to exporting charts. 
 
- Download <a href="content/sample_data.csv">sample_dataset.csv</a> and save it somewhere accessible.
+ Download <a href="content/sample_dataset.csv">sample_dataset.csv</a> and save it somewhere accessible.
 
