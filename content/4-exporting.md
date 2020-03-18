@@ -6,11 +6,11 @@ nav_order: 4
 
 First, to save a chart as an image in Excel use the "Copy as picture" function which is accessible from the drop down menu next to "Copy" in the "Home" tab"
 
-![source target example](4-exporting-save-as-picture.png)
+![source target example](4-exporting-copy-as-picture.png)
 
 Generally as shown on screen will get you what you need.
 
-![source target example](4-as-shown.png)
+![source target example](4-exporting-as-shown.png)
 
 From here you have several options.
 
