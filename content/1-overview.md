@@ -6,13 +6,6 @@ nav_order: 2
 
 ## Getting to know the options
 
-### Purpose
-- introduce visualization tools in Excel interface
-- review what Excel can and can't do
-- troubleshooting issues with misbehaving data
-
-### Getting to know the data menu
-
 Visualization tools in Excel are generally under the "Insert" menu because you are inserting a chart or other visual into a spreadsheet.
 
 ![source target example](1-overview-insert-menu.png)
